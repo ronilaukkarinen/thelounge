@@ -6532,6 +6532,7 @@ socks@^2.6.1:
 
 sortablejs@1.10.2, "sortablejs@git+https://github.com/thelounge/Sortable.git":
   version "1.14.0"
+  uid "9730c70cd48da38d8feb3dd6808b1893157d8dfb"
   resolved "git+https://github.com/thelounge/Sortable.git#9730c70cd48da38d8feb3dd6808b1893157d8dfb"
 
 source-map-js@^1.0.2:
